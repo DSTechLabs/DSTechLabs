@@ -1,5 +1,5 @@
 - Hi, I’m @DSTechLabs.
-- I'm known for building Industrial Control Software and High-End Audio Speaker Systems - both since the 70's.
-- I’m currently working on many projects. For example, Remote WiFi Modules that connect with Factory Floor Equipment for Monitoring and Control (SCADA).
+- I design and build Industrial Control Software, IoT Devices, Robots, Automation Equipment, High-End Audio Speaker Systems, Telescopes and more ...
+- Always working on nerdy projects. For example, Remote WiFi Modules that connect with Factory Floor Equipment for Monitoring and Control (SCADA).
 - See more about me [here](https://dstechlabs.com/portfolio/) and [here](https://dstechlabs.com/About/)
 - You can reach me at bill@dstechlabs.com
