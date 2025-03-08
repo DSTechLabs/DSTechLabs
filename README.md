@@ -1,5 +1,5 @@
 - Hi, I’m @DSTechLabs.
 - I design and build Industrial Control Software, IoT Devices, Robots, Automation Equipment, High-End Audio Speaker Systems, Telescopes and more ...
-- Always working on nerdy projects. For example, Remote WiFi Modules that connect with Factory Floor Equipment for Monitoring and Control (SCADA).
+- Always working on nerdy projects. For example, The **SMAC Framework**.  The successor to FMAC3, it's a bidirectional **System Monitor and Control** System
 - See more about me [here](https://dstechlabs.com/portfolio/) and [here](https://dstechlabs.com/About/)
 - You can reach me at bill@dstechlabs.com
